@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Python module to allow learners to easily create GUIs"
+name = "guizero"
+optional = false
+python-versions = ">=3"
+version = "1.1.0"
+
+[metadata]
+content-hash = "299de0803d3b8742e3d44bd325701b499862fd21639c191669dd5cf32a31c343"
+python-versions = "^3.7"
+
+[metadata.hashes]
+guizero = ["445ea7b5180aad4782bc0c15241cc0b190f3f4d75780636c2b2116298e67c7eb", "45a9c5db9ed017ad00de267a3e59c452ab8c73f4cb40795887f0748ce07d5ef8", "dd65471901855f85236085d6bca302d889140e035b680103bcdd79346c4aff56"]
